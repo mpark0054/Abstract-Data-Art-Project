@@ -17,35 +17,21 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## Dataset
 
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type.
+Dataset: https://docs.google.com/spreadsheets/d/1aqvHJdMnM0yebIAZ8XCi8e2YHepoC26SnW1_TxhoDuU/edit?gid=1915727116#gid=1915727116 
 
-Example:
-
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions
-
-- **Country** (String) - name of the country
-- **Population** (int) - number of people in the country
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons
+- **Album** (String) - name of the Album Cover
+- **Artist** (String) - name of artist who published the music
+- **Genre** (String) - name of the specific genre of the music
 
 ## UML Diagram
-
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
 
 ![alt text](<Copy of (Unit 4) UML Diagram-3.png>)
 
 ## Video Demo
-
-Record a short video of your abstract art animation to display here on your README. You can do this by:
-
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
 
 [[Abstract Art Project Demo]![alt text](image-3.png)](https://youtu.be/LOnmyCv2-p4)
 
 
 ## Description
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+This project puts together a music randomizer to allow users the convience of being able to recieve a random artist, album, and genre, all at the same time, in which they correspond to each other. Along with a soothing and peaceful in the background, it aims to keep the user entertained and content, while also providing them information. This project utilizes two 1-D Arrays, which allows it to store data that makes up the visualization. It also includes String Methods and algorithms in which capture multi-selection statements with compound Boolean expressions to analyze the data. Overall, users of this project are able to have access to up to 500 different albums, artists, and genres, intaking new ideas on their own music taste.
